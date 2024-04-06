@@ -1,0 +1,21 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    text: |-
+      # First step is to import the math module. The math module contains all mathematical functionalities.
+      import math
+      
+      # Read radius from input
+      radius = float(input())
+      
+      # Now you can use 'math.pi' and the square of radius to calculate the area of the circle. Write down the formula and print it.
+      # Remember the formula to calculate area of circle is pi*r^2.'
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/40916#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 06 Apr 2024 21:39:13 UTC"
+record: -1
+submission_language: python3

@@ -1,0 +1,11 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    text: "# Convert Celsius to Fahrenheit\n\ncelsius = float(input())\n\n# Write the\
+    \ formula to convert Celsius to Fahrenheit here\nfahrenheit = \n\nprint(fahrenheit)"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45625#comment
+status: Solved
+record: -1
+submission_language: python3
