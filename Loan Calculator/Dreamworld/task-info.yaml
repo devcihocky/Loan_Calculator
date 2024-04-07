@@ -131,6 +131,6 @@ files:
       
       if __name__ == '__main__':    LoanCalcTest('creditcalc.creditcalc').run_tests()
     learner_created: false
-feedback_link: https://hyperskill.org/projects/90/stages/501/implement#comment
+feedback_link: https://hyperskill.org/learn/step/8003#comment
 status: Unchecked
 record: -1

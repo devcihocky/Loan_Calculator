@@ -1,0 +1,28 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    text: |-
+      # The program starts here
+      
+      def activity(day):
+          #Use elif to set conditions for days of the week
+          # Remember, the days are represented as follows:
+          # 0 to 4 for Monday to Friday respectively
+          # 5 for Saturday
+          # 6 for Sunday
+      
+          # Write your code here!
+      
+      # Do not change anything below!
+      
+      day = int(input())
+      print(activity(day))
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41120#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 07 Apr 2024 22:13:54 UTC"
+record: -1
+submission_language: python3
